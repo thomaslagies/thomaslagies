@@ -1,4 +1,6 @@
-### Hi there 👋
+![no internet](https://github.com/thomaslagies/thomaslagies/blob/main/chrome-dino-with-hat.gif)
+
+
 
 <!--
 **thomaslagies/thomaslagies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
