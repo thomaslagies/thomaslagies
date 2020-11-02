@@ -1,4 +1,4 @@
-![no internet](https://github.com/thomaslagies/thomaslagies/blob/main/chrome-dino-with-hat.gif)
+![no internet](https://github.com/thomaslagies/thomaslagies/blob/main/media/chrome-dino.gif)
 
 
 
