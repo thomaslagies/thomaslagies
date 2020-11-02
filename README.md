@@ -1,6 +1,6 @@
 ![no internet](https://github.com/thomaslagies/thomaslagies/blob/main/media/chrome-dino.gif)
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=thomaslagies)](https://github.com/anuraghazra/github-readme-stats)
+[![github stats](https://github-readme-stats.vercel.app/api?username=thomaslagies?count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
