@@ -1,3 +1,3 @@
 ## Hallo! :wave:
 
-![programming](https://github.com/thomaslagies/thomaslagies/blob/main/programming.gif)
+![programming](https://github.com/thomaslagies/thomaslagies/blob/main/program.gif)
